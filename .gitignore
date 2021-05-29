@@ -1,0 +1,6 @@
+*.docx
+*.zip
+*.pth
+*.pdf
+*.txt
+logs/*
