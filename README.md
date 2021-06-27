@@ -37,3 +37,7 @@ Results of the developer AGD Autoencoder are shown in Table 2 and visualized usi
 
 Confusion matrices for the subject-wise 10-fold cross-validation approach for testing data from the augmented dataset are shown in Figure 5. The IOU for the testing data stands at 81 percent. 
 
+## Contact and Acknowledgements
+
+I would like to thank the Physionet's Sleep EDF community for the open dataset upon which my research was concluded. Feel free to contact me with any proposals on LinkedIn: linkedin.com/in/tim-cvetko-32842a1a6/ or Mail: cvetko.tim@gmail.com :D
+
