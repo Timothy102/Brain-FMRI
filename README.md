@@ -45,6 +45,7 @@ I would like to thank the Physionet's Sleep EDF community for the open dataset u
 
 ### Citation
 
+```
 @misc{cvetko2021agdautoencoder,
       title={AGD-Autoencoder: Attention Gated Deep Convolutional Autoencoder for Brain Tumor Segmentation}, 
       author={Tim Cvetko},
@@ -53,3 +54,4 @@ I would like to thank the Physionet's Sleep EDF community for the open dataset u
       archivePrefix={arXiv},
       primaryClass={eess.IV}
 }
+```
