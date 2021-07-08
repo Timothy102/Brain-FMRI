@@ -4,6 +4,8 @@
 
 Brain tumor segmentation is a challenging problem in medical image analysis. The endpoint is to generate the salient masks that accurately identify brain tumor regions in an fMRI screening. In this paper, we propose a novel attention gate (AG model) for brain tumor segmentation that utilizes both the edge detecting unit and the attention gated network to highlight and segment the salient regions from fMRI images. This feature enables us to eliminate the necessity of having to explicitly point towards the damaged area(external tissue localization) and classify(classification) as per classical computer vision techniques. AGs can easily be integrated within the deep convolutional neural networks(CNNs). Minimal computional overhead is required while the AGs increase the sensitivity scores significantly. We show that the edge detector along with an attention gated mechanism provide a sufficient enough method for brain segmentation reaching an IOU. 
 
+Read the full article on Arxiv: https://arxiv.org/abs/2107.03323. 
+
 ## Requirements
 
 * pandas==1.1.4
@@ -41,3 +43,13 @@ Confusion matrices for the subject-wise 10-fold cross-validation approach for te
 
 I would like to thank the Physionet's Sleep EDF community for the open dataset upon which my research was concluded. Feel free to contact me with any proposals on LinkedIn: linkedin.com/in/tim-cvetko-32842a1a6/ or Mail: cvetko.tim@gmail.com :D
 
+### Citation
+
+@misc{cvetko2021agdautoencoder,
+      title={AGD-Autoencoder: Attention Gated Deep Convolutional Autoencoder for Brain Tumor Segmentation}, 
+      author={Tim Cvetko},
+      year={2021},
+      eprint={2107.03323},
+      archivePrefix={arXiv},
+      primaryClass={eess.IV}
+}
