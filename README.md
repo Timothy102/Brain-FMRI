@@ -48,7 +48,7 @@ I would like to thank the Physionet's Sleep EDF community for the open dataset u
 
 LinkedIn: linkedin.com/in/tim-cvetko-32842a1a6/ or 
 
-Mail: cvetko.tim@gmail.com :D
+Mail: cvetko.tim@gmail.com
 
 ### Citation
 
