@@ -44,9 +44,8 @@ Confusion matrices for the subject-wise 10-fold cross-validation approach for te
 
 ## Contact and Acknowledgements
 
-I would like to thank the Physionet's Sleep EDF community for the open dataset upon which my research was concluded. Feel free to contact me with any proposals on 
-
-Please, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/tim-cvetko-32842a1a6/) or [Gmail](tim@metawaveai.com).
+I would like to thank the Physionet's Sleep EDF community for the open dataset upon which my research was concluded. 
+Please, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/tim-cvetko-32842a1a6/) or [Gmail](tim@rywave.io).
 
 ## License
 
